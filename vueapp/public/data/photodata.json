@@ -1,10 +1,10 @@
 {
   "photoData": [
     {
-      "src": "./img/1.jpg"
+      "src": "./img/7.jpg"
     },
     {
-      "src": "./img/2.jpeg"
+      "src": "./img/2.jpg"
     },
     {
       "src": "./img/3.jpg"
@@ -13,13 +13,13 @@
       "src": "./img/4.jpg"
     },
     {
-      "src": "./img/1.jpg"
+      "src": "./img/5.jpg"
     },
     {
       "src": "./img/6.jpg"
     },
     {
-      "src": "./img/7.jpg"
+      "src": "./img/12.jpg"
     },
     {
       "src": "./img/8.jpg"
@@ -52,25 +52,25 @@
       "src": "./img/17.jpg"
     },
     {
-      "src": "./img/18.jpg"
+      "src": "./img/8.jpg"
     },
     {
       "src": "./img/19.jpg"
     },
     {
-      "src": "./img/20.jpg"
+      "src": "./img/2.jpg"
     },
     {
-      "src": "./img/21.jpg"
+      "src": "./img/3.jpg"
     },
     {
-      "src": "./img/22.jpg"
+      "src": "./img/4.jpg"
     },
     {
-      "src": "./img/23.jpg"
+      "src": "./img/5.jpg"
     },
     {
-      "src": "./img/24.jpg"
+      "src": "./img/6.jpg"
     }
   ]
 }
